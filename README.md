@@ -7,4 +7,4 @@
 
  bot1 dosyasında bulunan databaseBot içinde de bir çizim oyunu vardır kullanıcı çizimini discordta mesaj üzerinde koordinat girerek yapar ve bu çizim kaydedilip daha sonra açılabilir.
 
- botlarda sadece bu anlattıklarım yoktur. herhangi bir konuda bir komut bulabilirssin muhtemelen konsept karışık diğerlerinde.
+ botlarda sadece bu anlattıklarım yoktur. herhangi bir konuda bir komut bulabilirsiniz muhtemelen konsept karışık diğerlerinde.
